@@ -13,7 +13,7 @@
 
 <br>
 
- 👉 [Acesse o projeto finalizado aqui.](https://maykbrito.github.io/devlinks)
+ 👉 [Acesse o projeto finalizado aqui.](https://meu-devlinks.vercel.app/)
 
  <br>
 
